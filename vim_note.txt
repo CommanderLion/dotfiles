@@ -1,0 +1,25 @@
+Learning Vim in a Week
+网址： https://www.youtube.com/watch?v=_NUO4JEtkDw
+
+学习vim是一个持续学习的过程；
+使用版本控制软件来跟踪自己的～/.vimrc配置文件；
+学会借用他人的配置文件：
+https://github.com/mscoutermarsh/dotfiles
+https://github.com/thoughtbot/dotfiles
+调整键盘的响应速度来加快使用键盘进行移动等操作的速度；
+更改键盘映射：Caps lock -> ESC
+反复学习vim自带的教程：$vimtutor
+游戏教程：http://vim-adventures.com/
+观看网上相关视频教程： http://vimcasts.org/
+常用的插件：
+Ctrl-P： https://github.com/kien/ctrlp.vim
+NERDTree: https://github.com/scrooloose/nerdtree
+AG for Vim: https://github.com/rking/ag.vim
+其他与你使用的编程语言相关的插件： 
+vim-ros: https://github.com/taketwo/vim-ros
+
+
+
+
+
+
